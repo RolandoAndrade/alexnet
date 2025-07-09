@@ -4,6 +4,10 @@ Este proyecto se centra en el desarrollo de una inteligencia artificial capaz de
 
 La base teórica del proyecto se encuentra en el documento `Redes Neurales.pdf`.
 
+
+https://github.com/user-attachments/assets/563cf5dd-bb82-472f-a2e0-c543b3f497e6
+
+
 ## Contenido del Repositorio
 
 *   `Alexnet.ipynb`: Contiene la implementación de una red neuronal basada en la arquitectura AlexNet, así como una implementación más avanzada que utiliza aprendizaje por transferencia con MobileNet.
